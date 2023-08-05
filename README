@@ -1,5 +1,6 @@
-Link for data: https://raw.githubusercontent.com/thomas944/ml-assignment-2/main/Iris.csv
-Link for github: https://github.com/thomas944/ml-assignment-2
+Artifical Neural Network Classification of Iris CSV Dataset
+
+Link for data: https://www.kaggle.com/datasets/uciml/iris
 
 This is the implementation of neural networks for various activation functions without using neural network creation libraries
 Libraries Used: pandas 1.5.3, matplotlib 3.6.3, numpy 1.24.2, scikit-learn 1.2.2, seaborn 0.12.2, time
