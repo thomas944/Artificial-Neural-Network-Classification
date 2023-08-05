@@ -1,4 +1,6 @@
-##Artifical Neural Network Classification of Iris CSV Dataset
+## Artifical Neural Network Classification of Iris CSV Dataset
+
+Highly recommended to use small learning rates (0.001 or 0.0001)
 
 Link for data: https://www.kaggle.com/datasets/uciml/iris
 
