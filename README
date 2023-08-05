@@ -1,0 +1,21 @@
+## Thomas Pham Net ID: TTP190005 
+## Christopher Chan Net ID: CCC180002
+
+Link for data: https://raw.githubusercontent.com/thomas944/ml-assignment-2/main/Iris.csv
+Link for github: https://github.com/thomas944/ml-assignment-2
+
+This is the implementation of neural networks for various activation functions without using neural network creation libraries
+Libraries Used: pandas 1.5.3, matplotlib 3.6.3, numpy 1.24.2, scikit-learn 1.2.2, seaborn 0.12.2, time
+
+Assumptions:
+  1. Python 3.9.6 installed
+  2. IDE installed (VS Code is recommended)
+  3. Pip 23.0.1 installed
+To Run Code:
+  1. Navigate to file in IDE after downloading
+  2. Install the necessary libraries
+  3. Make sure you are in the right directory. Change directory by typing cd then the directory name 
+  4. Once you are in the the right directory, type python part2.py to run code.
+  5. Change parameters to see different activation function graphs, learning rates, use optimization, etc...
+  6. Uncomment code at the bottom to see comparisons. There is a template provided. Comment the first section in main before running.
+
